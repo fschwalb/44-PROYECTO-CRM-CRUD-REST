@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fernando",
+      "email": "fschwalb@gmail.com",
+      "telefono": "01140617006",
+      "empresa": "Destination",
+      "id": 1
+    }
+  ]
+}
